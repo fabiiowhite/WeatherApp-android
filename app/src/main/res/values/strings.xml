@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="title1">Proporcao de temperatura</string>
+    <string name="title2">Tarefas para o dia-a-dia</string>
+    <string name="title3">Gestao e Registro proprio</string>
+    <string name="description1">O aplicativo fornece-lhe uma temperatura\n em tempo real de acordo com a sua localização,\nvelocidade de vento e estado do ceu.</string>
+    <string name="description2">Com a funcionalidade de poder ter acesso\na sugestões de actividades que possa ter\n como opções para o dia de acordo com\na temperatura.</string>
+    <string name="description3">Livre arbitrio e atribuido ao usuario apos efectuar\no login ou signup, capacitando-lhe a poder Criar,\nEditar e Remover e actividades no aplicativo.</string>
+</resources>
