@@ -1,4 +1,4 @@
-# WeatherApp & Task Management
+# WeatherApp & Task Management ☔
 
 👋 Welcome to the WeatherApp android project.  <br />
 
